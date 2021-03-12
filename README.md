@@ -10,15 +10,19 @@ Quick Summary: Understand Algorithms and Data structure at a deep level. You wil
 <tr>
 <td>
 
-[Section 1: ](##section-1-)
-[Section 2: ](##section-2-)
-[Section 3: ](##section-3-)
+[Section 1: Installation and Setup](##section-1-Installation-and-Setup)
+
+[Section 2: Pattern Matching Algorithms](##section-2-Pattern-Matching-Algorithms)
+
+[Section 3: Compression Algorithms](##section-3-Compression-Algorithms)
 
 </td>
 <td>
 
-[Section 4: ](##section-4-)
-[Section 5: ](##section-5-)
+[Section 4: Exploring Trie Trees](##section-4-Exploring-Trie-Trees)
+
+[Section 5: Extra Information - Source
+code, and other stuff](##section-5-Extra-Information---Source-code-and-other-stuff)
 
 </td>
 </tr>
